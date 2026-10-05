@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:mini_nft_marketplace_app/core/resourses/routes_manager.dart';
+import 'package:mini_nft_marketplace_app/core/resources/routes_manager.dart';
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
